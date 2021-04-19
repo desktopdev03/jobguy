@@ -1,5 +1,5 @@
 # jobguy
-*Jobguy never die!
+Jobguy never die!
 
 For this repository and add your experiences then commit it and create a pull request.
 it's fun!
